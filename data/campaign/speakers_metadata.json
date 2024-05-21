@@ -1,0 +1,91 @@
+{"Joseph R. Biden": {
+    "clean": "Joe Biden",
+    "lm_id": 16,
+    "year": ["2020"],
+    "party": "D",
+    "potus": ["2020"] 
+}, 
+ 
+ "Donald J. Trump": {
+    "clean": "Donald Trump",
+    "lm_id": 15,
+    "year": ["2016", "2020"],
+    "party": "R",
+    "potus": ["2017"] 
+}, 
+ 
+ "Barack Obama": {
+    "clean": "Barack Obama",
+    "lm_id": 11,
+    "year": ["2008", "2012"],
+    "party": "D",
+    "potus": ["2008", "2012"] 
+},
+ 
+"Ronald Reagan": {
+    "clean": "Ronald Reagan",
+    "lm_id": 8,
+    "year": ["1980", "1984"],
+    "party": "R",
+    "potus": ["1980", "1984"] 
+}, 
+ 
+ "Jimmy Carter": {
+    "clean": "Jimmy Carter",
+    "lm_id": 9,
+    "year": ["1976", "1980"],
+    "party": "D",
+    "potus": ["1976"] 
+}, 
+ 
+ "Richard Nixon": {
+    "clean": "Richard Nixon",
+    "lm_id": 6,
+    "year": ["1960"],
+    "party": "R",
+    "potus": ["1968"] 
+},
+
+ "John F. Kennedy": {
+    "clean": "John Kennedy",
+    "lm_id": 7,
+    "year": ["1960"],
+    "party": "D",
+    "potus":  ["1960"]
+},
+"Robert Dole": {
+    "clean": "Bob Dole",
+    "lm_id": 0,
+    "year": ["1996"],
+    "party": "R",
+    "potus": [] 
+}, 
+"John F. Kerry": {
+    "clean": "John Kerry",
+    "lm_id": 2,
+    "year": ["2004"],
+    "party": "D",
+    "potus": [] 
+},
+"Mitt Romney": {
+    "clean": "Mitt Romney",
+    "lm_id": 10,
+    "year": ["2012"],
+    "party": "R",
+    "potus": []
+},
+"John McCain": {
+    "clean": "John McCain",
+    "lm_id": 13,
+    "year": ["2008"],
+    "party": "R",
+    "potus": [] 
+},
+"Hillary Clinton": {
+    "clean": "Hillary Clinton",
+    "lm_id": 14,
+    "year": ["2016"],
+    "party": "D",
+    "potus": [] 
+}
+}
