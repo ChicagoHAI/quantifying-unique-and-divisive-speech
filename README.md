@@ -39,22 +39,22 @@ The methodology of lexicon construction is described in our paper. In this repo,
 - `majority-words.txt` - contains the 178 terms that ≥3 out of 4 annotators agree are divisive. This set is used for analysis in the paper.
 - `unanimous-words.txt` - contains the 123 terms that all 4 annotators agree are divisive. 
 
-## Results
+## Methods & Analysis
 
 ### Uniqueness score
 
 Model training: see [models/README.md](models/README.md)
 
-Get scores from model: run `results/score_uniqueness.py`. See `results/run_score_uniqueness.sh` for an example of how to run this script.
+Get scores from model: run `analysis/score_uniqueness.py`. See `analysis/run_score_uniqueness.sh` for an example of how to run this script.
 
-Plot scores: run `results/plot_uniqueness.py`. See `results/run_plot_uniqueness.sh` for an example of how to run this script.
+Plot scores: run `analysis/plot_uniqueness.py`. See `analysis/run_plot_uniqueness.sh` for an example of how to run this script.
 
 ### Divisive lexicon usage
-Run `results/plot_divisive_lexicon.py`. See `results/run_plot_lexicon.sh` for an example of how to run this script.
+Run `analysis/plot_divisive_lexicon.py`. See `analysis/run_plot_lexicon.sh` for an example of how to run this script.
 
 
 ### FW-overlap analysis
-Run `results/plot_fw_overlap.py`. See `results/run_fw_overlap.sh` for an example of how to run this script.
+Run `analysis/plot_fw_overlap.py`. See `analysis/run_fw_overlap.sh` for an example of how to run this script.
 
 
 
