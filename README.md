@@ -1,4 +1,4 @@
-# quantifying-unique-and-divisive-speech
+# Quantifying the Uniqueness of Donald Trump in Presidential Discourse
 
 Data and code for the paper, [Quantifying the Uniqueness of Donald Trump in Presidential Discourse](https://arxiv.org/abs/2401.01405).
 
