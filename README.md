@@ -1,19 +1,26 @@
-# Quantifying the Uniqueness of Donald Trump in Presidential Discourse
+# Quantifying the Uniqueness and Divisiveness of Presidential Discourse
 
-Data and code for the paper, [Quantifying the Uniqueness of Donald Trump in Presidential Discourse](https://arxiv.org/abs/2401.01405).
+Data and code for the paper, [Quantifying the Uniqueness and Divisiveness of Presidential Discourse](https://academic.oup.com/pnasnexus/article/3/10/pgae431/7814873) ([preprint](https://arxiv.org/abs/2401.01405)).
 
 
 
 ## Citations
 ```
-@misc{zhou2024quantifying,
-      title={Quantifying the Uniqueness of Donald Trump in Presidential Discourse}, 
-      author={Karen Zhou and Alexander A. Meitus and Milo Chase and Grace Wang and Anne Mykland and William Howell and Chenhao Tan},
-      year={2024},
-      eprint={2401.01405},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{10.1093/pnasnexus/pgae431,
+    author = {Zhou, Karen and Meitus, Alexander A and Chase, Milo and Wang, Grace and Mykland, Anne and Howell, William and Tan, Chenhao},
+    title = {Quantifying the uniqueness and divisiveness of presidential discourse},
+    journal = {PNAS Nexus},
+    volume = {3},
+    number = {10},
+    pages = {pgae431},
+    year = {2024},
+    month = {10},
+    issn = {2752-6542},
+    doi = {10.1093/pnasnexus/pgae431},
+    url = {https://doi.org/10.1093/pnasnexus/pgae431},
+    eprint = {https://academic.oup.com/pnasnexus/article-pdf/3/10/pgae431/59961584/pgae431.pdf},
 }
+
 ```
 
 
